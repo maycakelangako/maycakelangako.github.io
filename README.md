@@ -28,6 +28,7 @@ Important Meal
 
 | Breakfast | lunch | dinner |
 
+| ------    | --- | | ---- |
 | apple | steak | turkey |
 
 | pancakes | ice cream | halo halo |
