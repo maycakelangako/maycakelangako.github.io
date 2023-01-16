@@ -35,7 +35,4 @@ Important Meal
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.smithsonianmag.com%2Fscience-nature%2Fwhere-did-dragons-come-from-23969126%2F&psig=AOvVaw3o1Fph_b65WJGpcP_RV2hv&ust=1673679326021000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCOjBvub7w_wCFQAAAAAdAAAAABAE
-
-
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1DWZeKCadgRdKQ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
