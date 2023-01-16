@@ -17,11 +17,11 @@ A List of my Favorite Anime
 
 I am `jonas`
 
-[Nothing]https://www.youtube.com/watch?v=dQw4w9WgXcQ
+[Nothing](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-[`Twitter`]https://twitter.com/explore
+[`Twitter`](https://twitter.com/explore)
 
-[`Facebook`]https://www.facebook.com/
+[`Facebook`](https://www.facebook.com/)
 
 
 Important Meal
@@ -36,3 +36,6 @@ Important Meal
 
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1DWZeKCadgRdKQ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
+![download](https://user-images.githubusercontent.com/122424057/212575582-b466b8c7-f6e6-45f5-8a43-e5993a08d944.png)
